@@ -1,4 +1,4 @@
-# Cria-o-de-formulario-com-python-e-sql
+
 # 🔰 Sistema de Cadastro de Clientes — TechSolutions
 
 Este projeto é um **sistema de cadastro de clientes** desenvolvido em **Python**, com uma **interface gráfica moderna usando CustomTkinter** e integração com **banco de dados MySQL**.  
